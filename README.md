@@ -3,7 +3,7 @@
 I am Javier Gil Montaño. Check this out!
 
 - :goat: Currently, I am a technical leader at [intelygenz.com](https://intelygenz.com/) 
-- :snake:Senior [python](https://www.python.org/) developer, with my [personal lessons](https://github.com/McLargo/python-lessons) 
+- :snake:Senior [python](https://www.python.org/) developer, with my [personal lessons](https://mclargo.github.io/python-lessons/) 
 - :spiral_notepad: You can see [my tech wiki](https://mclargo.github.io/)
 - :books: Learning [Go](https://go.dev/) 
 - :basketball: Amateur [basketball](https://youtu.be/WgRQArUar08) player
